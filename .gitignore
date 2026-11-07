@@ -1,0 +1,4 @@
+# scan results contain details about the scanned computer - never commit them
+*.json
+PC_SECURITY_REPORT.md
+*.log
